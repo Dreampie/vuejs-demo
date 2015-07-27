@@ -22,6 +22,7 @@ Vue.use VueResource
 # you can perform async rejection here
 router.beforeEach (to, from, allow, deny)->
   console.log "before : " + to.path + "," + from.path
+  allow()
 
 # global after
 router.afterEach (to, from)->
