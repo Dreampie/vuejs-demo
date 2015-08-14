@@ -35,7 +35,7 @@
     "vue-resource": "~0.1.6",
     "vue-validator": "~1.1.1",
     "nprogress": "~0.2.0",
-    "vue-router": "vuejs/vue-router#master",
+    "vue-router": "~0.4.0",
     "route-recognizer": "^0.1.5",
     "insert-css": "^0.2.0"
   }
